@@ -31,5 +31,5 @@ def subset_sum(arr, sum):
 arr = [1, 2,1, 7, 5]
 S = 10
 
-"""print(subset_sum(arr, S))"""
+print(subset_sum(arr, S))
 print(subset_sum([1, 2, 7, 1, 5], 10))
